@@ -1,0 +1,6 @@
+qc_id,full_id,osm_id,osm_type,is_in,name,place,sagns_id,wikidata,wikipedia,icon_url
+"0",n50485644,"50485644",node,"Western Cape, South Africa",Swellendam,town,"67009",Q1023257,en:Swellendam,./0.png
+"1",n262715119,"262715119",node,"Western Cape, South Africa",Railton,suburb,"73996",,,./0.png
+"2",n262719496,"262719496",node,"Western Cape, South Africa",Buffeljagsrivier,town,"92234",,,./0.png
+"3",n2185065856,"2185065856",node,,Bontebok National Park Reception & Shop,locality,,,,./0.png
+"4",n2393133023,"2393133023",node,,Lang Elsies Kraal Rest Camp,hamlet,,,,./0.png
